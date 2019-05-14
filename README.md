@@ -17,7 +17,7 @@ Eles se encontram para se divertir e se engajar na Prática Deliberada para melh
 
 ### Avaliação post-mortem
 
-Realizar braimstorm, enfatizando o que foi positivo e o que pode ser aprimorado.
+Realizar brainstorming, enfatizando o que foi positivo e o que pode ser aprimorado.
 
 ### Realizados
 
