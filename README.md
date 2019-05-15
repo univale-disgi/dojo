@@ -1,6 +1,8 @@
 # Coding Dojo
-#### DISGI
- 
+Modelo do DISGI
+
+![dojo](https://cdn-images-1.medium.com/max/1600/0*CLYFR2rHc6ven8kd.)
+
 ## O que é um Coding Dojo
 
 Um Coding Dojo é um encontro onde programadores se encontram para trabalhar em desafios de programação. Eles se encontram para se divertir e se engajar na Prática Deliberada para melhorar suas habilidades.
@@ -51,5 +53,5 @@ Ao final da sessão iremos enviar o código para Dojo DISGI onde ficará disponi
 ## Bibliografia
 
 1. [Coding Dojo – O Que é ? E Como Participar ?](http://flaviosilveira.com/2011/coding-dojo-o-que-e-e-como-participar/)
-2. [Coding Dojo🥋](https://medium.com/@lucascaixeta/coding-dojo-4e0b1ea69735)
+2. [Coding Dojo 🥋](https://medium.com/@lucascaixeta/coding-dojo-4e0b1ea69735)
 3. [O que é o Coding Dojo?](https://www.devmedia.com.br/o-que-e-o-coding-dojo/30517)
