@@ -10,7 +10,7 @@ Um Coding Dojo é um encontro onde programadores se encontram para trabalhar em 
 
 * A programação obrigatoriamente deve começar a partir de um teste; TDD - Test Driven Development
 
-Baby steps - Passos de Bebê
+###Baby steps - Passos de Bebê
 
 * Enquanto um bebê aprende a andar, ele não se arrisca dar passos grandes. No Dojo deve acontecer da mesma forma.
 * O código deve ser feito com calma e devagar, para que todos os presentes possam entender e o rumo que está sendo tomado.
@@ -37,7 +37,8 @@ Baby steps - Passos de Bebê
 * Quando a correção é feita e os testes apresentam resultado positivo, a plateia está liberada para dar opinião ou sugestões para o piloto e co-piloto.
 * Não será permitido uso da internet para consultas que não a documentação da linguagem ou framework.
 
-Ferramentas que iremos utilizar
+###Ferramentas que iremos utilizar
+
 * Visual Studio Code (vscode)
 * Prompt de Comando (cmd, powershell ou cmder)
 * Zeal (software para acesso local de documentações)
